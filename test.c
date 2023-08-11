@@ -1,1 +1,2 @@
-hhhkhakjsdhfkhakshdf
+test log_all
+
